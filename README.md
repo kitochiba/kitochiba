@@ -1,4 +1,5 @@
-### Hi there 👋
+ola eu sou um estudante do colegio santo agostinho, do 1anoB, meu nome é Felipe Ricardo Lourenço
+eu gosto de 
 
 <!--
 **kitochiba/kitochiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
